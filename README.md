@@ -8,9 +8,8 @@ The coursework involves consulting for a client who manages a text-based platfor
 - **Task 2**: Develop a prototype model to assess text clarity (labelled as "clear enough" or "not clear enough") using TF-IDF vectorisation and Logistic Regression.
 
 ## Repository Contents
-- **Notebook (`.ipynb`)**: Contains code for data exploration, preprocessing, model training, and evaluation for both tasks. This file is structured for easy understanding and can be opened in Jupyter or [Google Colab](https://colab.research.google.com/).
+- **Notebook (`applied_ml_project.ipynb`)**: Contains code for data exploration, preprocessing, model training, and evaluation for both tasks. This file is structured for easy understanding and can be opened in any Jupyter environment.
 - **Report (`project_report.pdf`)**: Detailed analysis of the project, including data exploration, model performance, and ethical considerations for the clarity classification model.
-- **Data**: The dataset, provided by the university, includes text samples and features useful for classification tasks. Due to restrictions, the dataset is not included here.
 
 ## Key Features
 1. **Data Preprocessing**:
