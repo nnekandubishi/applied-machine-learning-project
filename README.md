@@ -9,7 +9,7 @@ The coursework involves consulting for a client who manages a text-based platfor
 
 ## Repository Contents
 - **Notebook (`applied_ml_project.ipynb`)**: Contains code for data exploration, preprocessing, model training, and evaluation for both tasks. This file is structured for easy understanding and can be opened in any Jupyter environment.
-- **Report (`project_report.pdf`)**: Detailed analysis of the project, including data exploration, model performance, and ethical considerations for the clarity classification model.
+- **Report (`applied_ml_project.docx`)**: Detailed analysis of the project, including data exploration, model performance, and ethical considerations for the clarity classification model.
 
 ## Key Features
 1. **Data Preprocessing**:
