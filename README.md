@@ -1,4 +1,4 @@
-# Applied Machine Learning Project - COMP1804
+# Applied Machine Learning Project
 
 This repository contains my MSc Data Science coursework for the Applied Machine Learning module, focusing on two primary tasks: topic classification and text clarity classification. These tasks aim to explore and implement machine learning techniques suitable for text classification in response to a hypothetical client’s needs.
 
