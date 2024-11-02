@@ -2,6 +2,9 @@
 
 This repository contains my MSc Data Science coursework for the Applied Machine Learning module, focusing on two primary tasks: topic classification and text clarity classification. These tasks aim to explore and implement machine learning techniques suitable for text classification in response to a hypothetical client’s needs.
 
+### Disclaimer
+This repository contains code and data for educational purposes as part of my coursework. **Please do not copy or reuse this code for your own coursework or projects without permission.**
+
 ## Project Overview
 The coursework involves consulting for a client who manages a text-based platform and wishes to use machine learning to automate text classification tasks. Specifically:
 - **Task 1**: Classify text into five topics, including "Artificial Intelligence" and "Philosophy," using Logistic Regression with word embeddings.
@@ -20,8 +23,6 @@ The coursework involves consulting for a client who manages a text-based platfor
 3. **Ethical Considerations**:
    - Discusses potential biases and ethical risks associated with clarity-based content rejection.
 
-### Disclaimer
-This repository contains code and data for educational purposes as part of my coursework. **Please do not copy or reuse this code for your own coursework or projects without permission.**
 
 ## Results
 Both models perform above baseline, meeting the client's success criteria, with further refinement suggested for enhanced generalisation and clarity evaluation.
