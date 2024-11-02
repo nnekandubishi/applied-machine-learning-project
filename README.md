@@ -20,10 +20,8 @@ The coursework involves consulting for a client who manages a text-based platfor
 3. **Ethical Considerations**:
    - Discusses potential biases and ethical risks associated with clarity-based content rejection.
 
-## Usage Instructions
-1. Clone the repository.
-2. Open the notebook (`applied_ml_project.ipynb`) in Jupyter or Google Colab.
-3. Follow the code cells to reproduce the analysis.
+### Disclaimer
+This repository contains code and data for educational purposes as part of my coursework. **Please do not copy or reuse this code for your own coursework or projects without permission.**
 
 ## Results
 Both models perform above baseline, meeting the client's success criteria, with further refinement suggested for enhanced generalisation and clarity evaluation.
